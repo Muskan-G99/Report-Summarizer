@@ -7,4 +7,5 @@ Marketing and Financial Reports generated are usually highly comprehensive. As a
 
 - The 'summarizer.ipynb' file consists of the custom functions made to extract different kinds of structures present in the report such as images, tables and text.
 - The 'frontend.py' file consists of the code used to deploy the summarizer for a user to naviagte through different parts of the report.
+
 For more context regarding the approach, check out 'Methodology.pdf'!
